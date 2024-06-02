@@ -5,18 +5,18 @@
 
 ## Overview
 
-This project demonstrates my skills in JavaScript for fetching and displaying historical cryptocurrency prices using an API.
+This project is a webpage that retrieves and displays historical cryptocurrency prices using an API.
 
 ## Dataset
 
 The dataset includes historical prices for the following cryptocurrencies from 2013 to 2021:
+
 - Bitcoin
 - Ethereum
 - Dogecoin
   
 ## Tools Used
 
+- App Lab (Code.org)
 - JavaScript
-- HTML
-- CSS
-- Fetch API
+- App Lab's Data Table
